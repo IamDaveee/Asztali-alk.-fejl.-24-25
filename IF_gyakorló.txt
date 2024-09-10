@@ -1,0 +1,15 @@
+1.)
+Kérjen be egy betut a felhasználótól. Ha 'a' vagy 'A' betut ütött, a program írja ki a felhasználó nevét! Ha 'b' és 'B' betut ütött be, akkor kérje be a felhasználó testsúlyát és magasságát, majd számolja ki a testtömegindexét. (testtömegindex= kg/(magasság*magasság))
+Más betu leütése esetén a program írjon hibaüzenetet.
+
+2.)
+Rendezzen sorba két beolvasott számot!
+
+3.)
+Kérjen be 4 számot. Határozza meg páronként a számok minimumát és maximumát, valamint a minimum és maximum közötti különbséget!
+
+4.)
+Kérje be a víz homérsékletét, és döntse el a halmazállapotát. (folyékony, jég, goz)
+
+5.)
+Készítsünk programot, amely burkoló mesterek munkáját segíti. A szükséges csempe mennyiségének kiszámításához a program kérje be a terület szélességét és magasságát méterben, majd számolja ki, hogy hány darab 20*20 cm-es csempére van szükség.
