@@ -1,0 +1,50 @@
+1.)
+Olvasson be egy számot és döntse el, hogy a szám pozitív, negatív vagy 0.
+
+2.)
+Írjon programot, amely eldönti egy háromszögrol, hogy derékszögu-e. A háromszög oldalhosszúságait a felhasználó adja meg.
+
+3.)
+Írja ki két beolvasott szám összegét, átlagát, különbségét, szorzatát, hányadosát.
+
+4.)
+Írjon programot, amely egy logikai változó igaz értéke esetén a képernyore írja, hogy IGAZ, hamis értéke esetén pedig HAMIS!
+
+
+5.)
+Írjon programot, amely bekér egy számot. Ha a szám -20 és 40 között van, a program két bekért szám alapján számolja ki egy téglalap kerületét, ellenkezo esetben a területét.
+
+6.)
+Írjon programot, amely beolvas két számot. Ha a két szám egyenlo, képernyore írja, hogy "A számok egyenloek". A nagyobb számot ossza el kettovel, a kisebbet hárommal, az eredményt pedig írja ki.
+
+7.)
+Döntse el egy számról, hogy páros-e!
+
+8.)
+Két szám közül írassuk ki a nagyobbat!
+
+9.)
+Három beolvasott szám közül írassuk ki a legnagyobbat!
+
+10.)
+3 számról döntse el, hogy lehetnek-e egy háromszög oldalai. Ha igen, akkor számítsa ki a háromszög kerületét, valamint a magasság bekérése után a területét is. Ha nem, akkor írja ki, hogy  a háromszög nem szerkesztheto.
+
+11.)
+VIzsgáljuk meg, hogy egy 'a' egész szám osztható-e egy 'b' egész számmal.
+
+12.)
+Tetszoleges 0 és 1000000 közötti számról a program döntse el, hogy hány jegyu!
+
+13.)
+Kérje be egy dolgozat pontszámát. A pontszám értéke nem lehet több, mint 100 és nem lehet negatív érték.
+Osztályozza le a dolgozatot:
+0-50 pont: elégtelen
+51-65 pont: elégséges
+66-75 pont: közepes
+76-85 pont: jó
+85-100 pont: jeles
+
+
+14.)
+Vegyen fel egy logikai típusú változót, melynek értéke kezdetben igaz. Kérjen be a felhasználótól egy számot, és értékelje ki az alábbi kifejezést:
+logikai változó= logikai változó ÉS (szám>=120) VAGY (szám<=1000) ÉS NEM logikai

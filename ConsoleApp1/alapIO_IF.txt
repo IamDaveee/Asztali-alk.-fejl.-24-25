@@ -1,0 +1,29 @@
+A <> jelek között mindig egy változó szerepel, így a változó aktuális értéke kerüljön kiíratásra!
+
+
+
+1.) Vegyen fel egy 'hello' nevû karakterek tárolására alkalmas változót, és kezdõértékét állítsa a "Helló Világ!" szövegre!
+2.) Vegyen fel egy 'név' változót! A program futtatása során kérje be a felhasználó nevét!
+3.) Írja képernyõre a 'hello' és a 'név' változók tartalmát az alábbi formában:
+"Változók kiíratása:
+	1. feladat: <hello>	2. feladat: <név>"
+
+4.) Vegyen fel egy 'a' tetszõleges kezdõértékkel rendelkezõ, pozitív és negatív valós számok tárolására alkalmas változót. (pl: -3,8) 
+
+5.) Kérjen be a felhasználótól egy egész számot egy 'b' nevû változóba!
+
+6.) Amennyiben az 5.) feladatban megadott szám értéke pozitív vagy nulla, írja képernyõre a 4.) feladatban megadott változó értékének kétszeresét az alábbi formában:
+"A <a> szám kétszerese:		<eredmény>"
+
+Ha a megadott szám negatív, abban az esetben az alábbi szöveg jelenjen meg:
+
+"Kedves <név>!
+	Az ön által megadott szám: <b>, amely negatív!"
+
+7.) Kérjen be a felhasználótól egy 'x' nevû, egyetlen karakter tárolására alkalmas változóba egy betût!
+Ha a betû 'a' vagy 'A', akkor bekért adatok alapján számítsa ki egy háromszög kerületét!
+Egyéb betû beütése esetén egy logikai típusú változóba értékelje ki az alábbi kifejezést, majd írja képernyõre az eredményt!
+A logikai típusú változó neve legyen 'értékelés', kezdõértékét állítsa igazra!
+A kiértékelendõ kifejezés: (a>=0) ÉS (a<=100) VAGY NEM(b>=100 VAGY b=0) VAGY <értékelés>
+
+	

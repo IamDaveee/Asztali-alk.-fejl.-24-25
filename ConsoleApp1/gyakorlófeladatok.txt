@@ -1,0 +1,28 @@
+Gyakorló feladatok:
+1.)
+Írjon programot, amely megkérdezi a felhasználó nevét, majd köszönti. (pl: Üvözlöm Sajtos Ödön)
+2.)
+Számítsa ki egy négyzet és egy téglalap kerületét, területét!
+3.)
+Írjon programot, amely egy háromszög oldalainak hosszát olvassa be a billentyuzetrol, majd megmondja, hogy szerkesztheto-e.
+4.)
+Olvasson be egy számot, és döntse el, hogy pozitív vagy negatív.
+5.)
+végezze el két szám alapmuveleteit!
+6.) 
+Írja ki egy számpár számtani közepét!
+7.)
+Döntsük el egy számról, hogy páros-e! (egész osztás / jellel, maradékos osztás % jellel)
+8.)
+Egy beolvasott számról döntsük el, hogy -50 és 100 között van-e!
+9.)
+Vizsgáljuk meg, hogy egy 'a' egész szám osztható-e egy 'b' egész számmal.
+10.)
+3 beolvasott szám közül írja ki a legnagyobbat!
+11.)
+Rendezzen sorba 3 számot!
+12.)
+3 számról döntse el a program,hogy lehetnek-e egy háromszög oldalai!
+
+13.) 
+3 beolvasott számról a program döntse el, hogy számtani sorozatot alkotnak-e!
