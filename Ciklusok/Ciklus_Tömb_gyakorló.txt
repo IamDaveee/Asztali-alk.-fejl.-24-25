@@ -1,0 +1,25 @@
+Dolgozat elotti gyakorló feladatok
+
+1.) Kérjünk be a felhasználótól egy számot. Ha a szám negatív vagy 100-nál nagyobb, írjunk hibaüzenetet. Ellenkezo esetben vizsgáljuk meg, hogy páros vagy páratlan-e a szám.
+
+2.) Kérjen be 5 számot a felhasználótól.
+Számítsa ki a 5 bekért szám összegét, átlagát, valamint írja ki, hogy hány darab 3-mal osztható volt közöttük.
+
+3.) Hozzon létre egy 10 elemu, egész típusú tömböt, majd töltse fel véletlen számokkal. Keresse meg a tömb legkisebb elemét, és írja képernyore.
+
+4.)
+Írjunk egy programot, amely bekéri egy számtani sorozat elso elemét és differenciáját! Ezek után kiírja a képernyore a számtani sorozat elsp 20 elemét!
+
+5.) Töltsünk fel egy 100 elemu tömböt véletlen számokkal, és döntsük el, hogy van-e a tömbben negatív szám. Írjuk ki a tömb eleminek összegét!
+
+6.) Írjuk ki a számokat 1-100-ig egymás mellé szóközzel elválasztva!
+
+7.) 
+Számítsuk ki az elso 100 szám összegét!
+
+8.) 
+Számítsuk ki az elso 100 páros szám összegét!
+
+9.)
+Határozzuk meg egy szám faktoriálisának értékét!
+pl 5!= 1*2*3*4*5
