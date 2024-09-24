@@ -1,0 +1,14 @@
+H:\Asztali.Alk.Fejl\Ciklusok\bin\Debug\Ciklusok.exe.config
+H:\Asztali.Alk.Fejl\Ciklusok\bin\Debug\Ciklusok.exe
+H:\Asztali.Alk.Fejl\Ciklusok\bin\Debug\Ciklusok.pdb
+H:\Asztali.Alk.Fejl\Ciklusok\obj\Debug\Ciklusok.csproj.AssemblyReference.cache
+H:\Asztali.Alk.Fejl\Ciklusok\obj\Debug\Ciklusok.csproj.CoreCompileInputs.cache
+H:\Asztali.Alk.Fejl\Ciklusok\obj\Debug\Ciklusok.exe
+H:\Asztali.Alk.Fejl\Ciklusok\obj\Debug\Ciklusok.pdb
+C:\Users\balazs.david.420\source\repos\Ciklusok\obj\Debug\Ciklusok.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\Ciklusok\obj\Debug\Ciklusok.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\Ciklusok\obj\Debug\Ciklusok.exe
+C:\Users\balazs.david.420\source\repos\Ciklusok\obj\Debug\Ciklusok.pdb
+C:\Users\balazs.david.420\source\repos\Ciklusok\bin\Debug\Ciklusok.exe.config
+C:\Users\balazs.david.420\source\repos\Ciklusok\bin\Debug\Ciklusok.exe
+C:\Users\balazs.david.420\source\repos\Ciklusok\bin\Debug\Ciklusok.pdb
