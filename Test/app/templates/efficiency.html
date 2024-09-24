@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hatékonyság</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+<div class="container mt-5">
+    <h2>Hatékonyság</h2>
+    <p>Az egymás utáni tankolások közötti megtett kilométerek és az átlagos fogyasztás liter/100km alapján.</p>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Dátum</th>
+                <th>Megtett távolság (km)</th>
+                <th>Átlagos fogyasztás (liter/100km)</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for efficiency in efficiency_data %}
+            <tr>
+                <td>{{ efficiency[0] }}</td>
+                <td>{{ efficiency[1] }} km</td>
+                <td>{{ '%.2f' % efficiency[2] }} liter/100km</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+</body>
+</html>
