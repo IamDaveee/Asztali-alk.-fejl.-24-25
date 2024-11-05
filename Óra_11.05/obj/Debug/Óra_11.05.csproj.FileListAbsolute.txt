@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\Óra_11.05\bin\Debug\Óra_11.05.exe.config
+C:\Users\balazs.david.420\source\repos\Óra_11.05\bin\Debug\Óra_11.05.exe
+C:\Users\balazs.david.420\source\repos\Óra_11.05\bin\Debug\Óra_11.05.pdb
+C:\Users\balazs.david.420\source\repos\Óra_11.05\obj\Debug\Óra_11.05.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\Óra_11.05\obj\Debug\Óra_11.05.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\Óra_11.05\obj\Debug\Óra_11.05.exe
+C:\Users\balazs.david.420\source\repos\Óra_11.05\obj\Debug\Óra_11.05.pdb

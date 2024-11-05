@@ -1,0 +1,20 @@
+1.)
+Kérjen be egy betut a felhasználótól. Ha 'a' vagy 'A' betut ütött, a program írja ki a felhasználó nevét! Ha 'b' és 'B' betut ütött be, akkor kérje be a felhasználó testsúlyát és magasságát, majd számolja ki a testtömegindexét. (testtömegindex= kb/(magasság*magasság))
+Más betu leütése esetén a program írjon hibaüzenetet.
+
+2.)
+Készítsen 1-4-ig tartó "menüvezérelt" programot!
+A program 1-es gomb lenyomása esetén számolja ki egy négyzet kerületét!A négyzet oldalhosszúságát a felhasználótól kérje be!
+2-es gomb lenyomása esetén számolja ki egy kör területét! Az eredményt két tizedesjegyre kerekítve jelenítse meg!
+3-mas gomb lenyomása esetén írja képernyőre, hogy milyen nap van ma.
+4-es gomb lenyomása esetén kérdezze meg a felhasználó kedvenc számát és írja képernyőre a szám négyzetét!
+
+3.)
+Kérjen be a felhasználótól 6db egész számot! Írja képernyőre a páros számok összegét, és a páratlan számok átlagát!
+
+4.)
+Töltsön fel egy 50 elemű egész számok tárolására alkalmas tömböt tetszőleges véletlen számokkal. Írja képernyőre a tömb elemeinek átlagát! Számolja meg, hogy hány darab 100 és 200 közötti elem volt a tömbben! Az eredményt írja képernyőre!
+
+
+5.)
+Írja képernyőre az első 200 páros számot egymás mellé, egymástól szóközzel elválasztva!
