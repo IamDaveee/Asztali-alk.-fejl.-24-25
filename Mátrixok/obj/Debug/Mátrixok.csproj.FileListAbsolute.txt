@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\Mátrixok\bin\Debug\Mátrixok.exe.config
+C:\Users\balazs.david.420\source\repos\Mátrixok\bin\Debug\Mátrixok.exe
+C:\Users\balazs.david.420\source\repos\Mátrixok\bin\Debug\Mátrixok.pdb
+C:\Users\balazs.david.420\source\repos\Mátrixok\obj\Debug\Mátrixok.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\Mátrixok\obj\Debug\Mátrixok.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\Mátrixok\obj\Debug\Mátrixok.exe
+C:\Users\balazs.david.420\source\repos\Mátrixok\obj\Debug\Mátrixok.pdb
