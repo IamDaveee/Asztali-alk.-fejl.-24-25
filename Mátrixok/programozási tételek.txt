@@ -1,0 +1,74 @@
+Sorozatszámítás
+(összeg, átlag, szorzat)
+egy bemenő sorozat elemein végrehajtott transzformáció eredménye egy érté
+egy sorozathoz egy érteket rendelő prog.t.
+
+alg.
+osszeg:=0
+ciklus i:=1-től N-ig egyesével
+    osszeg:=osszeg+szám
+ciklus vége.
+ki: osszeg
+
+
+Eldöntés
+T tulajdonságú elemet keresünk egy sorozatban
+Döntsük el, hogy van-e ilyen elem a sorozatban.
+
+i:=1
+ciklus amíg (i<=n) és nem T(elem)
+	i:=i+1
+ciklus vége.
+van:=i<=n
+
+
+megszámlálás tétele
+T tulajdonságú elemek darabszámára vagyunk kíváncsiak
+
+db:=0
+ciklus i:=1-től n-ig egyesével
+	ha T(elem) akkor
+		db:=db+1
+ciklus vége
+ki:db
+
+
+szélsőérték keresés
+minimum, maximumkiválasztás
+érték: legkisebb elem, index: legkisebb elem sorszáma
+
+min:=tömb(1)  //TF., hogy a sorozat első eleme a legkisebb
+minindex:=0
+ciklus i:=1-től n-ig egyesével
+	ha tömb(i)<min akkor
+		min:=tömb(i)
+		minindex:=i
+ciklus vége
+ki: min, minindex
+
+
+
+Feladat:
+Keresés a mátrixban.
+Kérjen be egy számot! Nézze meg, hogy benne van-e a mátrixban, ha igen, adja meg a sor- és oszlopazonosítóit!
+
+
+Adja meg a főátló elemeit és azok összegét!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
