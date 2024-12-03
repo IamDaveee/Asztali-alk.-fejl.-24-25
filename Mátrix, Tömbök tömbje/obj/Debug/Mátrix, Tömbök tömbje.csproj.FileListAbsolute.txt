@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\Mátrix, Tömbök tömbje\bin\Debug\Mátrix, Tömbök tömbje.exe.config
+C:\Users\balazs.david.420\source\repos\Mátrix, Tömbök tömbje\bin\Debug\Mátrix, Tömbök tömbje.exe
+C:\Users\balazs.david.420\source\repos\Mátrix, Tömbök tömbje\bin\Debug\Mátrix, Tömbök tömbje.pdb
+C:\Users\balazs.david.420\source\repos\Mátrix, Tömbök tömbje\obj\Debug\Mátrix, Tömbök tömbje.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\Mátrix, Tömbök tömbje\obj\Debug\Mátrix, Tömbök tömbje.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\Mátrix, Tömbök tömbje\obj\Debug\Mátrix, Tömbök tömbje.exe
+C:\Users\balazs.david.420\source\repos\Mátrix, Tömbök tömbje\obj\Debug\Mátrix, Tömbök tömbje.pdb

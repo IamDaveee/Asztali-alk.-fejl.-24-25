@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\DogaGyak_24_10_01\bin\Debug\DogaGyak_24_10_01.exe.config
+C:\Users\balazs.david.420\source\repos\DogaGyak_24_10_01\bin\Debug\DogaGyak_24_10_01.exe
+C:\Users\balazs.david.420\source\repos\DogaGyak_24_10_01\bin\Debug\DogaGyak_24_10_01.pdb
+C:\Users\balazs.david.420\source\repos\DogaGyak_24_10_01\obj\Debug\DogaGyak_24_10_01.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\DogaGyak_24_10_01\obj\Debug\DogaGyak_24_10_01.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\DogaGyak_24_10_01\obj\Debug\DogaGyak_24_10_01.exe
+C:\Users\balazs.david.420\source\repos\DogaGyak_24_10_01\obj\Debug\DogaGyak_24_10_01.pdb

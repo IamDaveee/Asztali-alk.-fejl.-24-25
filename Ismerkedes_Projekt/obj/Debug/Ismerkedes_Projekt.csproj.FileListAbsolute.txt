@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\Ismerkedes_Projekt\bin\Debug\Ismerkedes_Projekt.exe.config
+C:\Users\balazs.david.420\source\repos\Ismerkedes_Projekt\bin\Debug\Ismerkedes_Projekt.exe
+C:\Users\balazs.david.420\source\repos\Ismerkedes_Projekt\bin\Debug\Ismerkedes_Projekt.pdb
+C:\Users\balazs.david.420\source\repos\Ismerkedes_Projekt\obj\Debug\Ismerkedes_Projekt.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\Ismerkedes_Projekt\obj\Debug\Ismerkedes_Projekt.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\Ismerkedes_Projekt\obj\Debug\Ismerkedes_Projekt.exe
+C:\Users\balazs.david.420\source\repos\Ismerkedes_Projekt\obj\Debug\Ismerkedes_Projekt.pdb

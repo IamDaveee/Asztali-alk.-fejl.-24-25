@@ -1,0 +1,8 @@
+Hozzon létre egy elem nevű 25 elemű, egész számok tárolására alkalmas vektort.
+Hajtsa végre az alábbi feladatokat:
+- Töltse fel a vektort véletlen számokkal, maximum 100-ig.
+- Írja képernyőre egymás mellé a vektor páros elemeit.
+- Határozza meg a hárommal osztható számok átlagát!
+- Írja képernyőre a tömb elemeinek négyzetét úgy, hogy az eredeti szám is megjelenik. pl.: 5 - 25
+- Vizsgálja meg, hogy van-e 10-el osztható szám a sorozatban?
+- Írja képernyőre a tömb elemeinek számát és az elemek összegét!

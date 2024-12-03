@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\Dolgozat_10.08\bin\Debug\Dolgozat_10.08.exe.config
+C:\Users\balazs.david.420\source\repos\Dolgozat_10.08\bin\Debug\Dolgozat_10.08.exe
+C:\Users\balazs.david.420\source\repos\Dolgozat_10.08\bin\Debug\Dolgozat_10.08.pdb
+C:\Users\balazs.david.420\source\repos\Dolgozat_10.08\obj\Debug\Dolgozat_10.08.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\Dolgozat_10.08\obj\Debug\Dolgozat_10.08.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\Dolgozat_10.08\obj\Debug\Dolgozat_10.08.exe
+C:\Users\balazs.david.420\source\repos\Dolgozat_10.08\obj\Debug\Dolgozat_10.08.pdb

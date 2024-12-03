@@ -1,0 +1,25 @@
+1.)
+Töltsünk fel egy 10x10-es mátrixot 10 és 50 közötti véletlen számokkal, és végezzük el az alábbi feladatokat:
+- írassuk ki a tömb elemeit a feltöltés után
+- határozzuk meg a tömb elemeinek összegét, átlagát
+- számoljuk meg, hogy hány darab páros eleme van
+- adjuk össze a foátlóban található elemeket
+- keressük meg a tömb legkisebb elemét
+- kérjünk be egy számot a felhasználótól. Vizsgáljuk meg, hogy a bekért szám hányszor szerepel a mátrixban. Adjuk meg a helyét a mátrixban.
+  Ha nem szerepel benne, írjuk ki ennek a tényét!
+  
+  
+2.)
+
+Hozzon létre egy 4 sorból álló tömböt, melynek minden sorában egy tömb található.
+Az első sorba tároljuk el a felhasználó kedvenc ételeit (4db)
+A második sorba rögzítsük a hónapok megnevezését
+A harmadik sorba legfeljebb 3 virágot rögzítsen.
+A negyedik sorban tároljunk el 5 számot!
+
+
+Írassuk ki a tömb elemeit mátrixos formában for és foreach ciklusok felhasználásával.
+3. Csináljunk egy 30*20 logikai mátrixot melybe egy színház foglalt illetve szabad helyeit fogjuk ábrázolni (1-szabad, 0-foglalt). 
+Töltsük fel 0 és 1 random értékekkel! 
+Kérjük be a felhasználótól hány db széket szeretne lefoglalni egymás mellett, ha van ilyen, akkor írassuk ki a sor és az ülés számot, 
+ha nincs, írjuk ki, hogy nem található ennyi üres szék egymás mellett. 
