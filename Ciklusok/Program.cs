@@ -21,6 +21,9 @@ namespace Ciklusok
              *típusa[] tombneve=new típusa[elemszám];
              *
              */
+
+            /*
+
             int[] szamok = new int[3];
             //elemek értékének megadása
             szamok[0] = 12;
@@ -36,6 +39,8 @@ namespace Ciklusok
             string[] nev = { "E", "V", "G", "P" };
             Console.WriteLine($"Tömb hossza: {nev.Length}");
             Console.WriteLine(szamok2.Max());
+
+            */
 
             /*
              *Ciklusok:
@@ -54,6 +59,8 @@ namespace Ciklusok
              *
              *i:ciklusváltozó - int típis, de a for ciklus sajátja
              */
+
+            /*
 
             for (int i = 0; i < 3; i++) //0,1,2
             {
@@ -109,11 +116,104 @@ namespace Ciklusok
             Console.WriteLine($"A számok átlaga: {Math.Round((double)szamok3.Sum()/szamok3.Length,3)}");
             Console.WriteLine($"A számok átlaga: {szamok3.Average()}");
 
+            */
+
+
             //foreach - nincs indexelés; változóba íródik az érték
+            
+            /*
+            
             foreach (int item in szamok3)
             {
                 Console.Write($"{item} ");
             }
+
+            */
+
+            /*
+             * While - előtesztelő ciklus
+             * ciklusba való belépési feltétel
+             * lehet, hogy a ciklus le sem fut
+             * ciklusmagon belül legyen a a belépési feltétel megváltozásának lehetőségét
+             * 
+             * módszertan:
+             * CIKLUS AMÍG (feltétel)
+             *      ciklusmag utasítása(i)
+             * CIKLUS VÉGE
+             * 
+             * 
+                while (true)
+                {
+                    utasítások
+                }
+	
+            */
+            //írjuk ki 1-10 ig a számokat
+            Console.Clear();
+
+
+            for (int i = 1; i < 11; i++)
+			{
+                Console.Write($"{i} ");
+			}     
+            
+            int cv=1;
+            while (cv<=10)
+	        {
+                Console.WriteLine($"{cv} ");
+                cv++;
+	        }
+
+            /*
+             * Hátultesztelő ciklus do -while
+             */
+            cv=1;
+            do
+	        {
+                Console.WriteLine($"{cv} ");
+                cv++;
+	        } while (cv<=10);
+
+            //Kérjünk be számokat, amíg a felhasználó 0-át nem üt.
+            //Számoljuk meg hány db
+            //adjuk össze, keressük meg a legkisebbet
+
+            Console.WriteLine("Kérek egy számot: ");
+            int szam=Convert.ToInt32(Console.ReadLine());
+            int db=0;
+            int osszeg=0;
+            int min=szam;
+            while (szam!=0)
+	        {
+                db++; //Hány db
+                osszeg += szam;
+                if (szam<min)
+	            {
+                    min=szam;
+	            }
+
+                Console.WriteLine("Kérek egy számot: ");
+                szam=Convert.ToInt32(Console.ReadLine());
+
+	        }
+
+            Console.WriteLine($"{db} számunk van, összegük: {osszeg}, legkisebb: {min}");
+
+            szam=0;
+            db=0;
+            osszeg=0;
+            min =int.MaxValue;
+            do
+	        {
+                Console.WriteLine("Kérek egy számot: ");
+                szam=Convert.ToInt32(Console.ReadLine());
+                db++;
+                osszeg += szam;
+                if (szam<min)
+	            {
+                    min=szam;
+	            }
+	        } while (szam==0);
 
             Console.ReadKey();
         }

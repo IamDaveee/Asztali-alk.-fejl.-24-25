@@ -335,15 +335,19 @@ namespace ConsoleApp1
             {
                 case 1:
                     {
-                        Console.WriteLine("Írj be egy egész számot: ");
+                        Console.WriteLine("Kérek egy számot: ");
                         int szam = Convert.ToInt32(Console.ReadLine());
-                        if (szam%2==0)
+                        if (szam==0)
                         {
-                            Console.WriteLine("A szám páros");
+                            Console.WriteLine("A szám 0");
                         }
-                        else
+                        if (szam<0)
                         {
-                            Console.WriteLine("A szám páratlan");
+                            Console.WriteLine("A szám negatív");
+                        }
+                        if (szam>0)
+                        {
+                            Console.WriteLine("A szám pozitív");
                         }
                     }
                     break;
@@ -433,6 +437,63 @@ namespace ConsoleApp1
                     break;
 
                 case 7:
+                    {
+                        Console.WriteLine("Írj be egy egész számot: ");
+                        int szam = Convert.ToInt32(Console.ReadLine());
+                        if (szam % 2 == 0)
+                        {
+                            Console.WriteLine("A szám páros");
+                        }
+                        else
+                        {
+                            Console.WriteLine("A szám páratlan");
+                        }
+                    }
+                    break;
+
+                case 8:
+                    {
+                        Console.WriteLine("Kérem az 1. számot");
+                        double szam1 = Convert.ToDouble(Console.ReadLine());
+                        Console.WriteLine("Kérem az 2. számot");
+                        double szam2 = Convert.ToDouble(Console.ReadLine());
+
+                        if (szam1>szam2)
+                        {
+                            Console.WriteLine(szam1);
+                        }
+                        else
+                        {
+                            Console.WriteLine(szam2);
+                        }
+                    }
+                    break;
+
+                case 9:
+                    {
+                        Console.WriteLine("Kérem az 1. számot");
+                        double szam1 = Convert.ToDouble(Console.ReadLine());
+                        Console.WriteLine("Kérem az 2. számot");
+                        double szam2 = Convert.ToDouble(Console.ReadLine());
+                        Console.WriteLine("Kérem az 3. számot");
+                        double szam3 = Convert.ToDouble(Console.ReadLine());
+
+                        if (szam1 > szam2 && szam1>szam3)
+                        {
+                            Console.WriteLine(szam1);
+                        }
+                        if (szam2 > szam1 && szam2 >szam3)
+                        {
+                            Console.WriteLine(szam2);
+                        }
+                        if (szam3 > szam1 && szam3>szam2)
+                        {
+                            Console.WriteLine(szam3);
+                        }
+                    }
+                    break;
+
+                case 10:
                     {
 
                     }
