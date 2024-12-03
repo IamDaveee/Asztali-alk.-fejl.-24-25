@@ -62,12 +62,12 @@ namespace Mátrix__Tömbök_tömbje
             */
 
 
-            /*
-
+            
+            //1-es feladat
             int[,] matrix = new int[10,10];
             Random rnd = new Random();
             double osszeg = 0;
-            int count = 0;
+            int osszegCount = 0;
             int parosCount = 0;
             int foatloCount = 0;
             int referencia = 1000;
@@ -79,7 +79,7 @@ namespace Mátrix__Tömbök_tömbje
                     matrix[i, j] = rnd.Next(10, 51);
                     Console.Write($"{matrix[i, j]} ");
                     osszeg += matrix[i, j];
-                    count += 1;
+                    osszegCount += 1;
                     if (matrix[i,j]%2==0)
                     {
                         parosCount += 1;
@@ -98,7 +98,7 @@ namespace Mátrix__Tömbök_tömbje
             }
             Console.WriteLine();
 
-            Console.WriteLine($"A mátrix elemeinek összege: {osszeg}, átlaguk: {osszeg/count}");
+            Console.WriteLine($"A mátrix elemeinek összege: {osszeg}, átlaguk: {osszeg/osszegCount}");
             Console.WriteLine($"A mátrixban {parosCount} db páros elem van");
             Console.WriteLine($"A főátlón található elemek összege: {foatloCount}");
             Console.WriteLine($"A mátrix legkisebb eleme: {legkisebb}");
@@ -131,7 +131,7 @@ namespace Mátrix__Tömbök_tömbje
 
             //2-es feladat
             string[][] tomb= new string[4][];
-            tomb[0] = new string[] {"Pizza","Hamburger","Palacsinta","Rántotthús"};
+            tomb[0] = new string[] {"","","",""};
             tomb[1] = new string[] {"Január","Február","Március","Április","Május","Június","Július","Augusztus","Szeptember","Okróber","November","Dercember"};
             tomb[2] = new string[] {"Rózsa","Tulipán","Nárcisz"};
             tomb[3] = new string[] {"1","2","3","4","5"};
@@ -161,6 +161,17 @@ namespace Mátrix__Tömbök_tömbje
             }
             //extra
 
+            foreach (var item in tomb)
+            {
+                foreach (var valami in item)
+                {
+                    Console.Write($"{valami} " );
+                }
+                Console.WriteLine();
+            }
+
+
+            /*
             for (int i = 0; i < tomb.Length; i++)
             {
                 for (int j = 0; j < tomb[i].Length; j++)
@@ -169,15 +180,12 @@ namespace Mátrix__Tömbök_tömbje
                 }
                 Console.WriteLine();
             }
-
-
-
             */
 
 
             //3-as feladat
             int[,] szekek = new int[30, 20];
-            Random rnd = new Random();
+            //Random rnd = new Random();
             for (int i = 0; i < szekek.GetLength(0); i++)
             {
                 for (int j = 0; j < szekek.GetLength(1); j++)
