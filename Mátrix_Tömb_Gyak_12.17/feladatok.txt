@@ -1,0 +1,30 @@
+Töltsön fel egy 10-10-es mátrixot -100 és 250 közötti számokkal, és végezze el az alábbi feladatokat:
+- Írja képernyőre a mátrix elemeit!
+- Számolja ki a főátló elemeinek összegét!
+- Számolja ki, hogy mennyi a  főátló és a mátrix páros elemeinek aránya!
+- Határozza meg a főátló legnagyobb elemét!
+- Írja képernyőre a hárommal osztható elemeket egymás mellé!
+- Keresse meg a 111-es számot a mátrixban! Amennyiben szerepel benne, írjuk, hogy hányszor találtuk meg.
+- Számolja meg, hogy hány darab olyan szám található a mátrixban, amelyik a főátlóban található elemek összegénél kisebb!
+- Számolja meg, hogy hány negatív szám található a mátrixban!
+
+
+
+Tegyük fel, hogy van három osztályunk:
+Az első osztályban 3 tanuló van.
+A második osztályban 5 tanuló van.
+A harmadik osztályban 4 tanuló van.
+
+Tároljuk a tanulók nevét egy megfelelő adatszerkezetben és írjuk képernyőre őket!
+
+
+
+
+Képzeld el, hogy van egy vállalat, amely több üzlettel rendelkezik, és minden üzlet különböző számú napi eladást hajt végre. 
+Minden üzlet eltérő számú napot tartalmazhat
+Tegyük fel, hogy három üzletünk van:
+
+Az első üzlet 4 napot dolgozik.
+A második üzlet 5 napot dolgozik.
+A harmadik üzlet 3 napot dolgozik.
+A felhasználótól bekérjük az egyes üzletek napi eladásait, és tároljuk őket egy megfelelő adatszerkezetben!

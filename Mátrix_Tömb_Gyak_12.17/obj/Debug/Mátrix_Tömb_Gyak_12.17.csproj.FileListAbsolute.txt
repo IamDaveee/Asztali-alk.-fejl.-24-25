@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\Mátrix_Tömb_Gyak_12.17\bin\Debug\Mátrix_Tömb_Gyak_12.17.exe.config
+C:\Users\balazs.david.420\source\repos\Mátrix_Tömb_Gyak_12.17\bin\Debug\Mátrix_Tömb_Gyak_12.17.exe
+C:\Users\balazs.david.420\source\repos\Mátrix_Tömb_Gyak_12.17\bin\Debug\Mátrix_Tömb_Gyak_12.17.pdb
+C:\Users\balazs.david.420\source\repos\Mátrix_Tömb_Gyak_12.17\obj\Debug\Mátrix_Tömb_Gyak_12.17.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\Mátrix_Tömb_Gyak_12.17\obj\Debug\Mátrix_Tömb_Gyak_12.17.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\Mátrix_Tömb_Gyak_12.17\obj\Debug\Mátrix_Tömb_Gyak_12.17.exe
+C:\Users\balazs.david.420\source\repos\Mátrix_Tömb_Gyak_12.17\obj\Debug\Mátrix_Tömb_Gyak_12.17.pdb
