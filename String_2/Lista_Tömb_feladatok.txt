@@ -1,0 +1,31 @@
+Feladatok
+
+1. Hozzon létre egy 10*10-es mátrixot, és végezze el az alábbi feladatokat:
+- töltse fel, majd írassa ki a mátrix elemeit
+
+(
+- határozza meg a mátrix elemeinek átlagát
+- keresse meg a legkisebb elemet, és annak indexét
+- számolja meg, hogy hány páros és páratlan szám található a mátrixban
+- adott elem bekérése után döntse el, hogy az elem szerepel-e a mátrixban)
+
+
+2. Hozzon létre egy listát, mely elemeinek értékét a mátrix elso sora adja!
+Végezze el az alábbi muveleteket:
+- keresse meg, hogy listában szerepel-e a 123-as szám. Ha igen, adja meg, hogy a lista hányadik elemérol van szó?
+- adja össze a lista elemeit
+- rendezze sorba a lista elemeit, majd írja képernyore az eredményt
+- a rendezett lista elemeit másolja át egy vektorba, majd vizsgálja meg, hogy a vektorba hány 3-mal osztható szám került
+- szúrja be a listába a 23-as számot
+- törölje a lista 4. elemét
+
+
+Hozzon létre egy lista nevû listát. Töltse fel 30 darab véletlen számmal. Végezze el az alábbi feladatokat!
+1. feladat: Határozza meg a lista elemeinek összegét!
+2. feladat: Számolja meg, hogy hány darab 3-mal osztható szám van a listában!
+
+
+Kérjen be a felhasználótól egy tetszoleges szöveget egy 'szoveg' nevu, megfelelo típusú változóba! Keresse meg, hogy egy szintén a felhasználó által megadott karakter hányszor szerepel a szövegbe!
+
+5.) Olvasson be egy 'szam' nevu, szöveges adatok tárolására alkalmas változóba egy bináris számot!
+Számolja meg, hogy hány darab 1-es érték szerepel a beolvasott számban!
