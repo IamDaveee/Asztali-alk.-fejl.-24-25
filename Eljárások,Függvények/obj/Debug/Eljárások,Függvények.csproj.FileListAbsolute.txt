@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\Eljárások,Függvények\bin\Debug\Eljárások,Függvények.exe.config
+C:\Users\balazs.david.420\source\repos\Eljárások,Függvények\bin\Debug\Eljárások,Függvények.exe
+C:\Users\balazs.david.420\source\repos\Eljárások,Függvények\bin\Debug\Eljárások,Függvények.pdb
+C:\Users\balazs.david.420\source\repos\Eljárások,Függvények\obj\Debug\Eljárások,Függvények.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\Eljárások,Függvények\obj\Debug\Eljárások,Függvények.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\Eljárások,Függvények\obj\Debug\Eljárások,Függvények.exe
+C:\Users\balazs.david.420\source\repos\Eljárások,Függvények\obj\Debug\Eljárások,Függvények.pdb

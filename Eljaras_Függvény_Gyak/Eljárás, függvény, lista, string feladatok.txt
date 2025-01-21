@@ -1,0 +1,113 @@
+1. Írjon függvényt Oszthato() néven, amely két bekért számról eldönti, hogy az első szám osztható-e a másodikkal.
+
+2. Írjon eljárást, amely bekéri egy számtani sorozat első elemét, a differenciálját! Kérje be a felhasználótól a számtani sorozat hosszát, és írja képernyőre a számtani sorozat elemeitegymás mellé, szóközzel elválasztva!
+
+3. Írjon eljárást, amely bekéri egy mértani sorozat első elemét és hányadosát! Az eljárás írja képernyőre a mértani sorozat első 15 elemét!
+
+4. Írjon eljárást, amely egy 'fibo' listába és a képernyőre is kiírja a Fibonacci számsorozat első 20 elemét!
+A nulladik eleme 0, az első eleme 1. A számsor lényege, hogy minden szám az azt megelőző két szám összege, azaz a további elemeket az előző kettő összegeként kapjuk.
+
+A Fibonacci-számok végtelen, növekvő sorozatot alkotnak; ennek első néhány eleme a nulladiktól kezdve   0, 1, 2, 3, 5, 8, 13, 21, 34.  
+
+5. Egy Feltolt() eljárás segítségével a 'fibo' lista végéhez adjon még 20 véletlen számot, majd foreach ciklus segítségével írja képernyőre a lista elemeit!
+
+6. Írjon függvényt Darab() néven, amely meghatározza, hogy a  fibo listában hány darab olyan szám van, amely a lista elemeinek átlagánál nagyobb! Az átlag értékét egész számmra kerekítve határozza meg!
+
+7. Írjon eljárást Legek() néven, amely meghatározza a fibo lista legnagyobb és legkisebb elemét, valamint azok listában szereplő sorszámát! Bónusz feladatként írja képernyőre a legkisebb és legnagyobb elemek szomszédait is!
+
+8. Készítsen eljárást Barkochba néven, ahol a számítógép gondol egy számot 1 és 1000 között, melyet a felhasználónak kell kitalálnia! A felhasználó tippjére válaszképpen a gép közli, hogy a gondolt szám kisebb-e vagy nagyobb, mint a tipp, majd újabb tippelési lehetőséget ad egészen addig, amíg a játékos ki nem találja a számot.
+
+9. Készítsel eljárást Szoveg() néven, amely bekér egy szöveget, majd képernyőre írja a szöveget megfordítva, vagyis a betűk fordított sorrendjében!
+
+
+10. Egy Szóköz() nevű függvény határozza meg, hogy a Szoveg() eljárásban bekért szöveg hány darab szóközt tartalmaz?
+
+11. A húsvét vasárnap minden évben a tavaszi napéjegyenlőséget követő holdtölte utáni első vasárnap, így dátuma március 22. és április 25. között változhat. Ennek meghatározására alkalmas a következő egyszerűsített algoritmus. Jelölje T az évszámot (1901<=T<=2099). Kiszámítjuk a következő osztási maradékokat:
+
+A = T / 19 maradéka
+B = T / 4 maradéka
+C = T / 7 maradéka
+D = (19A+24) / 30 maradéka
+E = (2B+4C+6D+5) / 7 maradéka.
+Ezekből a húsvét vasárnap dátuma H=22+D+E, ami márciusi dátum, ha H<=31, különben áprilisban H-31. Azonban létezik két kivétel: ha E=6 és D=29, akkor H=50, illetve ha E=6 és D=28 és A>10, akkor H=49.
+
+Pünkösd minden évben húsvét után hét héttel következik.
+
+Készítse el a húsvét és a pünkösd dátumát meghatározó eljárást Husvet() néven! Írassa képernyőre az idei év és a jövő év húsvét vasárnapjának, illetve pünkösd vasárnapjának dátumát.
+
+Segítő algoritmus:
+Be(T)
+
+A=T mod 19
+B=T mod 4
+C=T mod 7
+D=(19*A+24) mod 30
+E=(2*B+4*C+6*D+5) mod 7
+
+H=22+D+E
+Ha E==6 és D==29 akkor H=50
+Ha E==6 és D==28 és A>10 akkor H=49
+
+P=H+49-31-30
+
+Ha H<31 akkor Ki("Húsvét  vasárnap: március "+ H    +".")
+különben      Ki("Húsvét  vasárnap: április "+(H-31)+".")
+
+Ha P<31 akkor Ki("Pünkösd vasárnap: május   "+ P    +".")
+különben      Ki("Pünkösd vasárnap: június  "+(P-31)+".")
+
+
+12. Készítsen Hatvány() néven eljárást, amely egy bekért szám első 10 hatványát írja képernyőre!
+
+13. Készítsen eljárást LNKO() néven, ami beolvas két számot, és kiírja a két szám legnagyobb közös osztóját! 
+Segítség:
+
+Eljárás LNKO
+ Ciklus amíg b > 0
+ t := b
+ b := a mod b
+ a := t
+ Ciklus vége
+ visszaad a
+ Eljárás vége
+
+14. Írjon eljárást, amely addig olvas be számokat a billentyűzetről, amígy azok kisebbek, mint 100. A számokat szúrja be a fibo listába! Hány számot olvasott be? Mekkora lett most a fibo lista elemszáma?
+
+15.Írjon eljárást, amely bekér egy számot, majd eldönti róla, hogy az adott szám prímszám-e!
+
+16. Írjon eljárást, amely bekér a felhasználótól egy számot, majd a megadott számig kiírja a prímszámokat!
+
+17. Készítsen VanE() néven logikai típusú függvényt, amely megvizsgálja, hogy benne van-e a fibo listában a felhasználó által bekért szám?
+
+18. Egy KiIr() eljárás írja képernyőre a fibo lista páros elemeit!
+
+19. Egy Másol() eljárás segítségével oldja meg, hogy a fibo lista páratlan elemei átkerüljenek egy paratlan nevű listába! Írja képernyőre a paratlan lista elemeit és elemeinek számát!
+
+20. Készítsen Atlag() néven eljárást, amely addig kéri be egy tanuló tantárgyainak eredményét, míg a tantárgyak száma el nem éri a maximális 10 darabot! Számítsa ki a tantárgyak átlageredményét két tizedesjegyre kerekítve! Írja képernyőre, hogy hány darab tantárgy eredményéből számolta ki az átlagot!
+
+21. Készítsen SzökőÉv() néven függvényt, amely egy bekért évszámról eldönti, hogy az adott év szökőév vagy sem! (Megoldása során elegendő azt vizsgálnia, hogy a bekért évszám osztható-e néggyel!)
+
+22. Készítsen eljárást Mátrix() néven, az alábbi feladatok megoldásával:
+- Hozzon létre egy 10*10-es mátrixot!
+- töltse fel, majd írassa ki a mátrix elemeit
+- határozza meg a mátrix elemeinek átlagát
+- keresse meg a legkisebb elemet, és annak indexét
+- számolja meg, hogy hány páros és páratlan szám található a mátrixban
+- adott elem bekérése után döntse el, hogy az elem szerepel-e a mátrixban
+- Hozzon létre egy listát, mely elemeinek értékét a mátrix elso sora adja!
+  Végezze el az alábbi műveleteket:
+- keresse meg, hogy listában szerepel-e a 333-as szám. Ha igen, adja meg, hogy a lista hányadik elemérol van szó?
+- adja össze a lista elemeit
+- rendezze sorba a lista elemeit, majd írja képernyore az eredményt
+- a rendezett lista elemeit másolja át egy vektorba, majd vizsgálja meg, hogy a vektorba hány 3-mal osztható szám került
+- szúrja be a listába a 23-as számot
+- törölje a lista 4. elemét
+
+
+23. Készítsen Sztringek() néven eljárást, amely az alábbi feladatokat végzi el:
+- Kérjen be egy mondatot és egy betut. Számolja meg, hogy az inputról érkezo betu hányszor szerepel a mondatban. Ha a megadott betu nem szerepel benne, akkor alakítsa a mondatot nagybetussé, ellenkezo esetben írja képernyore az eredményt!
+
+- Törölje a mondatból a szóközöket!
+- Írja ki a mondatot nagybetűkkel!
+- A nagybetűs mondatba szúrjon be egy tetszőleges szót a 3. karaktertől kezdve!
+- Vizsgálja meg, hogy az alma szó szerepel-e a szövegben!

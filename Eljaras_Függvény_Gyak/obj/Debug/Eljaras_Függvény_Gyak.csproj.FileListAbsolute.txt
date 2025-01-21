@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\Eljaras_Függvény_Gyak\bin\Debug\Eljaras_Függvény_Gyak.exe.config
+C:\Users\balazs.david.420\source\repos\Eljaras_Függvény_Gyak\bin\Debug\Eljaras_Függvény_Gyak.exe
+C:\Users\balazs.david.420\source\repos\Eljaras_Függvény_Gyak\bin\Debug\Eljaras_Függvény_Gyak.pdb
+C:\Users\balazs.david.420\source\repos\Eljaras_Függvény_Gyak\obj\Debug\Eljaras_Függvény_Gyak.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\Eljaras_Függvény_Gyak\obj\Debug\Eljaras_Függvény_Gyak.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\Eljaras_Függvény_Gyak\obj\Debug\Eljaras_Függvény_Gyak.exe
+C:\Users\balazs.david.420\source\repos\Eljaras_Függvény_Gyak\obj\Debug\Eljaras_Függvény_Gyak.pdb
