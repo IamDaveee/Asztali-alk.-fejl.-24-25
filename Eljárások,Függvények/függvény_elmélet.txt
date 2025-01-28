@@ -1,0 +1,118 @@
+Függvények
+
+
+- hasonló, mint az eljárás
+- pontosan egy eredménye van - fv. visszatérési értéke
+- fv-nél rögzíteni kell, hogy milyen típusú értéket
+  ad vissza
+- fv. neve előtt fel kell tüntetni a "void" helyett
+  azt a típust, amit a fv. visszaad
+  
+pl:
+    static int OsszegSzamitas()
+	{
+	     int osszeg=0;
+		 for (int i=0; i<tömb.Length; i++)
+		 {
+			osszeg=osszeg+tömb[i];
+		 }//for vége
+		 return osszeg;
+	}
+  
+fv. meghívása Main-ben
+.....
+{
+   ....
+   ....
+   int osszesen=OsszegSzamitas();
+   Console.Write("Az eredmény: {0}", osszesen);
+   Console.Write("Az eredmény: {0}",
+                   OsszegSzamitas());
+} 
+  
+  
+Elemi programozási tételek
+1.) Sorozatszámítás tétele - összeg, átlag
+ált. alg. - ismert elemszám esetén
+
+Sorozatszámítás
+   osszeg:=0
+   Ciklus I=1-től N-ig
+       osszeg:=osszeg+elem
+   Ciklus vége
+Sorozatszámítás vége.
+
+
+ált. alg. - ismeretlen elemszám esetén
+Sorozatszámítás
+   osszeg:=0
+   Hozzáférés az első elemhez
+   Ciklus Amíg van elem/elem megfelel egy feltételnek
+       osszeg:=osszeg+elem
+	   Hozzáférés a köv. elemhez
+   Ciklus vége
+Sorozatszámítás vége.
+
+2.) Megszámlálás tétele
+- egy sorozathoz egy értéket rendelő feladatosztályba
+- adott T tulajdonságú elemek darabszámát adja megfelel
+pl: számoljuk meg, hány db páros elem van a sorozatban
+
+Megszámlálás
+     db:=0
+	 Ciklus I=1-től N-ig
+	     Ha elem T tulajdonságú Akkor
+									db:=db+1
+	 Ciklus vége
+Megszámlálás vége.
+
+3.) Szélsőérték keresés -minimum, maximum
+
+MaxElem
+   max:=X(1) a sorozat első eleme TF., hogy ez a ln. szám
+   index=1   a sorozat első elemének indexe
+   Ciklus I=2-től N-ig 
+		Ha X(i) > max Akkor	
+				max:=X(i)
+				index:=i
+   Ciklus vége
+MaxElem vége.
+
+
+
+
+
+
+
+
+
+
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

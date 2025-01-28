@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\Eljarasok_Fv_Gyak_hosszu\bin\Debug\Eljarasok_Fv_Gyak_hosszu.exe.config
+C:\Users\balazs.david.420\source\repos\Eljarasok_Fv_Gyak_hosszu\bin\Debug\Eljarasok_Fv_Gyak_hosszu.exe
+C:\Users\balazs.david.420\source\repos\Eljarasok_Fv_Gyak_hosszu\bin\Debug\Eljarasok_Fv_Gyak_hosszu.pdb
+C:\Users\balazs.david.420\source\repos\Eljarasok_Fv_Gyak_hosszu\obj\Debug\Eljarasok_Fv_Gyak_hosszu.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\Eljarasok_Fv_Gyak_hosszu\obj\Debug\Eljarasok_Fv_Gyak_hosszu.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\Eljarasok_Fv_Gyak_hosszu\obj\Debug\Eljarasok_Fv_Gyak_hosszu.exe
+C:\Users\balazs.david.420\source\repos\Eljarasok_Fv_Gyak_hosszu\obj\Debug\Eljarasok_Fv_Gyak_hosszu.pdb
