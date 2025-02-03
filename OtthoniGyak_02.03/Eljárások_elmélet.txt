@@ -1,0 +1,124 @@
+Eljárások, függvények
+
+1.) Eljárások
+
+
+- hosszabb programok esetén a Main átláthatatlan lehet
+- javasolt a kód tördelése --> olyan részek elkülönítése, amelyek önmagában értelmes részfeladat megoldására alkalmasak
+- részfeladatok elnevezése (utal a funkciójára)
+- részfeladatok megírása elkülönítve a Main()-tol
+- eljárások:
+    - önálló feladattal, névvel rendelkezik
+    - visszatérési érték típusa void
+    - eljárás neve: betuvel, vagy _ -sal kezdodik
+		    nincs benne szóköz
+
+    - eljárásnak van törzse (utasítások)
+    - lehetnek paraméterei
+
+static void Informácio()
+{
+    Console.WriteLine("Végre itt vagyunk");
+    Console.WriteLine("Szívesen tanulunk");
+}
+
+- az eljárás meghívása a nevére való hivatkozással történik a program adott pontján
+
+pl.
+static void Main(string[] args)
+{
+    Console.WriteLine("Jó reggelt!");
+    Informácio();     <---eljárás meghívása
+}
+
+- az eljárásokból további eljárások hívhatók
+
+Hova írjuk az eljárásainkat?
+- OOP szerint a program építokövei az osztályok (class) - csoportba foglalja az egy témakörbe, feladatkörbe tartozó eljárásokat, függvényeket, változókat
+
+using System;
+...
+namespace valami
+{
+    class Program
+    {
+	Más eljárások....
+        static void Main(string[] args)
+        {
+		utasítások
+		eljárások, függvények meghívása
+        } //Main vége
+        További eljárások....
+     }  // class vége
+}//namespace vége
+
+- az eljárások megírása a Main()-em kívül (elotte, utána); sorrendjük mindegy
+
+- az eljárások tartalmazhatnak változókat --> az eljárások nem láthatják egymás változóit (hatáskör)
+
+
+Hatáskör
+- minden változónévhez tartozik egy hatáskör
+- megadja, hogy a változót a program szövegében mely részeken lehet látni (csak az oket tartalmazó blokkban láthatók, látja az összes eljárás, fv, Main)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,22 @@
+
+
+Függvények
+
+Készítsen olyan függvényt, amely
+
+1.) egy téglalap két oldalának ismeretében kiszámítja a     téglalap területét!
+2.) meghatározza, hogy egy 15 elemu tömbben/listában van-e     hárommal osztható, de öttel nem osztható szám.
+3.) meghatározza, hogy egy 5 elemu, karaktereket     tartalmazó tömbben hányszor szerepel az 'a' betu
+4.) meghatározza egy tömb/lista elemeinek átlagát
+5.) meghatározza a tömb/lista legkisebb elemének sorszámát
+6.) megkeresi a 52-es számot a sorozatban
+7.) amely kiszámolja egy négyzet oldalának ismeretében a     kerületét
+8.) amely meghatározza, hány darab páros szám van a tömbben/listában
+
+
+
+Írjon eljárást, amely feltölt egy 20 elemu két dimenziós tömböt véletlen, 100 és 250 közötti számokkal, majd kiírja oket mátrixos formában szóközzel elválasztva!
+Függvény segítségével határozza meg:
+- a mátrix elemeinek átlagát
+- a mátrix legnagyobb elemét
+- a mátrix elso sorának összegét

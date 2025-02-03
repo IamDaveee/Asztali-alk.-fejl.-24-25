@@ -1,0 +1,7 @@
+C:\Users\Dávid\source\repos\OtthoniGyak_02.03\bin\Debug\OtthoniGyak_02.03.exe.config
+C:\Users\Dávid\source\repos\OtthoniGyak_02.03\bin\Debug\OtthoniGyak_02.03.exe
+C:\Users\Dávid\source\repos\OtthoniGyak_02.03\bin\Debug\OtthoniGyak_02.03.pdb
+C:\Users\Dávid\source\repos\OtthoniGyak_02.03\obj\Debug\OtthoniGyak_02.03.csproj.AssemblyReference.cache
+C:\Users\Dávid\source\repos\OtthoniGyak_02.03\obj\Debug\OtthoniGyak_02.03.csproj.CoreCompileInputs.cache
+C:\Users\Dávid\source\repos\OtthoniGyak_02.03\obj\Debug\OtthoniGyak_02.03.exe
+C:\Users\Dávid\source\repos\OtthoniGyak_02.03\obj\Debug\OtthoniGyak_02.03.pdb

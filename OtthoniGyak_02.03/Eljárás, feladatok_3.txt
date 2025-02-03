@@ -1,0 +1,23 @@
+Készítsen programot dolgozat_<<név>> néven, amely az alábbi feladatokat látja el! 
+A feladatok megoldását külön eljárásban oldja meg, Feladat1, Feladat2, Feladat3, stb névvel ellátva!
+Az eljárásokban használt tömböket úgy deklarálja, hogy az adott tömbre hivatkozó minden eljárás 
+tudja azt használni. (megosztott tömb)
+
+1. feladat
+Töltsön fel egy 25 elemű tömböt 3 jegyű véletlen számokkal, majd írja képernyőre a tömb elemeit egymás mellé,
+szóközzel elválasztva!
+
+2. feladat
+Határozza meg a tömb elemeinek összegét és átlagát!
+
+3. feladat
+Keresse meg a tömb legnagyobb elemét, és annak indexét!
+
+4. feladat
+Kérjen be egy számot a felhasználótól, majd döntse el, hogy a szám nagyobb, kisebb-e mint nulla, vagy
+nullával egyenlő!
+
+5. feladat
+Kérjen be 3 egész számot, és döntse el, hogy azok számtani sorozatot alkotnak-e, valamint
+számítsa ki a 3 szám átlagát. Az eredményt 2 tizedesjegyre kerekítve (Math.Round függvény használatával)
+jelenítse meg.
