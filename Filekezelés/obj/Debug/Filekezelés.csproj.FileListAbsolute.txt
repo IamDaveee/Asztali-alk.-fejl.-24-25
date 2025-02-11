@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\Filekezelés\bin\Debug\Filekezelés.exe.config
+C:\Users\balazs.david.420\source\repos\Filekezelés\bin\Debug\Filekezelés.exe
+C:\Users\balazs.david.420\source\repos\Filekezelés\bin\Debug\Filekezelés.pdb
+C:\Users\balazs.david.420\source\repos\Filekezelés\obj\Debug\Filekezelés.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\Filekezelés\obj\Debug\Filekezelés.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\Filekezelés\obj\Debug\Filekezelés.exe
+C:\Users\balazs.david.420\source\repos\Filekezelés\obj\Debug\Filekezelés.pdb

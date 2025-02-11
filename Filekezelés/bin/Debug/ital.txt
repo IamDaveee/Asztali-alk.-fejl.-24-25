@@ -1,0 +1,7 @@
+narancslé;100;5
+szódavíz;250;10
+almalé;99;2
+víz;10;150
+tej;130;20
+kóla;59;32
+eperlé;138;25

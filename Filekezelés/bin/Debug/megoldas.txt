@@ -1,0 +1,10 @@
+7 féle ital hapható
+
+Összbevétel: 1263600
+
+A legdrágább ital: szódavíz
+
+A legtöbbet eladott ital: víz
+
+Az összes eladott liter: 244
+

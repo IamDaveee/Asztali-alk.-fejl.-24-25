@@ -1,0 +1,14 @@
+Az ital.txt file a Betérő nevű kocsma lehetséges kínálatát tárolja. A file-ban maximum 10 adat lehet. Az adatok az alábbi formában vannak eltárolva:
+narancslé;100;5
+Az első érték az ital neve, a második érték a kocsmai egységár (Ft/cl-ben), a harmadik érték pedig az eladott mennyiség értéke literben.
+Az értékek egymástól ;-vel vannak elválasztva.
+
+Feladatok:
+Olvassa be és tárolja el az adatokat!
+Hány féle ital kapható a Betérő kocsmában?
+Számolja ki, hogy az egyes italokból az összes eladott mennyiség után mennyi volt a kocsma italonkénti és az összes bevétele!
+Melyik a legdrágább ital?
+Melyik ital a legnépszerűbb? (amelyikből a legtöbb fogyott)
+Összesen hány liter folyadékot árult a kocsma?
+
+Az eredményeket írja a képernyőre és a megoldas.txt nevű file-ba!
