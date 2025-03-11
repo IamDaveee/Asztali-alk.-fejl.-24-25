@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\Structure_gyak_03.11\bin\Debug\Structure_gyak_03.11.exe.config
+C:\Users\balazs.david.420\source\repos\Structure_gyak_03.11\bin\Debug\Structure_gyak_03.11.exe
+C:\Users\balazs.david.420\source\repos\Structure_gyak_03.11\bin\Debug\Structure_gyak_03.11.pdb
+C:\Users\balazs.david.420\source\repos\Structure_gyak_03.11\obj\Debug\Structure_gyak_03.11.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\Structure_gyak_03.11\obj\Debug\Structure_gyak_03.11.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\Structure_gyak_03.11\obj\Debug\Structure_gyak_03.11.exe
+C:\Users\balazs.david.420\source\repos\Structure_gyak_03.11\obj\Debug\Structure_gyak_03.11.pdb

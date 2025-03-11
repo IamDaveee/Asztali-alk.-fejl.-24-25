@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35026.282
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snooker_03.11", "Snooker_03.11.csproj", "{E62E29D4-2C63-48FB-8B15-1F941CB0AD16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E62E29D4-2C63-48FB-8B15-1F941CB0AD16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E62E29D4-2C63-48FB-8B15-1F941CB0AD16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E62E29D4-2C63-48FB-8B15-1F941CB0AD16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E62E29D4-2C63-48FB-8B15-1F941CB0AD16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A02A3A8-A9FF-4351-B081-120E6B8E9008}
+	EndGlobalSection
+EndGlobal
