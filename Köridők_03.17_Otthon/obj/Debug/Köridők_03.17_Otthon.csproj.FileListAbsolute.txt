@@ -1,0 +1,7 @@
+C:\Users\Dávid\source\repos\Köridők_03.17_Otthon\bin\Debug\Köridők_03.17_Otthon.exe.config
+C:\Users\Dávid\source\repos\Köridők_03.17_Otthon\bin\Debug\Köridők_03.17_Otthon.exe
+C:\Users\Dávid\source\repos\Köridők_03.17_Otthon\bin\Debug\Köridők_03.17_Otthon.pdb
+C:\Users\Dávid\source\repos\Köridők_03.17_Otthon\obj\Debug\Köridők_03.17_Otthon.csproj.AssemblyReference.cache
+C:\Users\Dávid\source\repos\Köridők_03.17_Otthon\obj\Debug\Köridők_03.17_Otthon.csproj.CoreCompileInputs.cache
+C:\Users\Dávid\source\repos\Köridők_03.17_Otthon\obj\Debug\Köridők_03.17_Otthon.exe
+C:\Users\Dávid\source\repos\Köridők_03.17_Otthon\obj\Debug\Köridők_03.17_Otthon.pdb
