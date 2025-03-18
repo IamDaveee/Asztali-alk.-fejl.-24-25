@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\Balkezesek_03.18\bin\Debug\Balkezesek_03.18.exe.config
+C:\Users\balazs.david.420\source\repos\Balkezesek_03.18\bin\Debug\Balkezesek_03.18.exe
+C:\Users\balazs.david.420\source\repos\Balkezesek_03.18\bin\Debug\Balkezesek_03.18.pdb
+C:\Users\balazs.david.420\source\repos\Balkezesek_03.18\obj\Debug\Balkezesek_03.18.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\Balkezesek_03.18\obj\Debug\Balkezesek_03.18.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\Balkezesek_03.18\obj\Debug\Balkezesek_03.18.exe
+C:\Users\balazs.david.420\source\repos\Balkezesek_03.18\obj\Debug\Balkezesek_03.18.pdb
