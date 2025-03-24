@@ -1,0 +1,7 @@
+C:\Users\Dávid\source\repos\Struktúra_Gyak_03.24\bin\Debug\Struktúra_Gyak_03.24.exe.config
+C:\Users\Dávid\source\repos\Struktúra_Gyak_03.24\bin\Debug\Struktúra_Gyak_03.24.exe
+C:\Users\Dávid\source\repos\Struktúra_Gyak_03.24\bin\Debug\Struktúra_Gyak_03.24.pdb
+C:\Users\Dávid\source\repos\Struktúra_Gyak_03.24\obj\Debug\Struktúra_Gyak_03.24.csproj.AssemblyReference.cache
+C:\Users\Dávid\source\repos\Struktúra_Gyak_03.24\obj\Debug\Struktúra_Gyak_03.24.csproj.CoreCompileInputs.cache
+C:\Users\Dávid\source\repos\Struktúra_Gyak_03.24\obj\Debug\Struktúra_Gyak_03.24.exe
+C:\Users\Dávid\source\repos\Struktúra_Gyak_03.24\obj\Debug\Struktúra_Gyak_03.24.pdb
