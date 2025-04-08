@@ -1,0 +1,13 @@
+1.)
+Készítsünk egy Szamol osztályt, amely 2 számmal végzett alapműveleteket old meg!
+Írjunk egy Beker() metódust, amely értéket ad az adattagoknak! Konzol képernyőről bekéri a két számot, és beállítja a publikus adattagoknak.
+Írjunk metódust, amely műveleti jel választása után elvégzi a műveletet, és képernyőre írja az eredményt!
+Tesztelje az osztályt!
+
+
+2.)
+Készítsünk egy Negyszog osztályt, amelynek két szám típusú adattagja van!
+Írjunk paraméteres konstruktort, amely inicializálja az adattagokat.
+Egy logikai típusú függvény vizsgálja, hogy négyzetről vagy téglalapról van-e szó.
+Írjunk metódust, amely kiszámítja a négyszög kerületét, területét! Nyugodtan felhasználhatja a korábban elkészített függvényt!
+

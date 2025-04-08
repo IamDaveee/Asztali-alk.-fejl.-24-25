@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\Class_Basics\bin\Debug\Class_Basics.exe.config
+C:\Users\balazs.david.420\source\repos\Class_Basics\bin\Debug\Class_Basics.exe
+C:\Users\balazs.david.420\source\repos\Class_Basics\bin\Debug\Class_Basics.pdb
+C:\Users\balazs.david.420\source\repos\Class_Basics\obj\Debug\Class_Basics.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\Class_Basics\obj\Debug\Class_Basics.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\Class_Basics\obj\Debug\Class_Basics.exe
+C:\Users\balazs.david.420\source\repos\Class_Basics\obj\Debug\Class_Basics.pdb

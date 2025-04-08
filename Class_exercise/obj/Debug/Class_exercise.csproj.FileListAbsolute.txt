@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\Class_exercise\bin\Debug\Class_exercise.exe.config
+C:\Users\balazs.david.420\source\repos\Class_exercise\bin\Debug\Class_exercise.exe
+C:\Users\balazs.david.420\source\repos\Class_exercise\bin\Debug\Class_exercise.pdb
+C:\Users\balazs.david.420\source\repos\Class_exercise\obj\Debug\Class_exercise.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\Class_exercise\obj\Debug\Class_exercise.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\Class_exercise\obj\Debug\Class_exercise.exe
+C:\Users\balazs.david.420\source\repos\Class_exercise\obj\Debug\Class_exercise.pdb
