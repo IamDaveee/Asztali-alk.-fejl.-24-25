@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\Helsinki\bin\Debug\Helsinki.exe.config
+C:\Users\balazs.david.420\source\repos\Helsinki\bin\Debug\Helsinki.exe
+C:\Users\balazs.david.420\source\repos\Helsinki\bin\Debug\Helsinki.pdb
+C:\Users\balazs.david.420\source\repos\Helsinki\obj\Debug\Helsinki.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\Helsinki\obj\Debug\Helsinki.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\Helsinki\obj\Debug\Helsinki.exe
+C:\Users\balazs.david.420\source\repos\Helsinki\obj\Debug\Helsinki.pdb
