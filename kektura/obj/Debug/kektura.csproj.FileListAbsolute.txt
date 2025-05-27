@@ -1,0 +1,7 @@
+D:\Users\balazs.david.420\source\repos\kektura\bin\Debug\kektura.exe.config
+D:\Users\balazs.david.420\source\repos\kektura\bin\Debug\kektura.exe
+D:\Users\balazs.david.420\source\repos\kektura\bin\Debug\kektura.pdb
+D:\Users\balazs.david.420\source\repos\kektura\obj\Debug\kektura.csproj.AssemblyReference.cache
+D:\Users\balazs.david.420\source\repos\kektura\obj\Debug\kektura.csproj.CoreCompileInputs.cache
+D:\Users\balazs.david.420\source\repos\kektura\obj\Debug\kektura.exe
+D:\Users\balazs.david.420\source\repos\kektura\obj\Debug\kektura.pdb
