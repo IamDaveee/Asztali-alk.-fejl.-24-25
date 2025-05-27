@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\Választások\bin\Debug\Választások.exe.config
+C:\Users\balazs.david.420\source\repos\Választások\bin\Debug\Választások.exe
+C:\Users\balazs.david.420\source\repos\Választások\bin\Debug\Választások.pdb
+C:\Users\balazs.david.420\source\repos\Választások\obj\Debug\Választások.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\Választások\obj\Debug\Választások.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\Választások\obj\Debug\Választások.exe
+C:\Users\balazs.david.420\source\repos\Választások\obj\Debug\Választások.pdb
