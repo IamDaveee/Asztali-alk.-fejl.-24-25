@@ -1,0 +1,10 @@
+C:\Users\balazs.david.420\source\repos\Listbox_Gyakorlás\bin\Debug\Listbox_Gyakorlás.exe.config
+C:\Users\balazs.david.420\source\repos\Listbox_Gyakorlás\bin\Debug\Listbox_Gyakorlás.exe
+C:\Users\balazs.david.420\source\repos\Listbox_Gyakorlás\bin\Debug\Listbox_Gyakorlás.pdb
+C:\Users\balazs.david.420\source\repos\Listbox_Gyakorlás\obj\Debug\Listbox_Gyakorlás.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\Listbox_Gyakorlás\obj\Debug\Listbox_Gyakorlás.Form1.resources
+C:\Users\balazs.david.420\source\repos\Listbox_Gyakorlás\obj\Debug\Listbox_Gyakorlás.Properties.Resources.resources
+C:\Users\balazs.david.420\source\repos\Listbox_Gyakorlás\obj\Debug\Listbox_Gyakorlás.csproj.GenerateResource.cache
+C:\Users\balazs.david.420\source\repos\Listbox_Gyakorlás\obj\Debug\Listbox_Gyakorlás.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\Listbox_Gyakorlás\obj\Debug\Listbox_Gyakorlás.exe
+C:\Users\balazs.david.420\source\repos\Listbox_Gyakorlás\obj\Debug\Listbox_Gyakorlás.pdb
